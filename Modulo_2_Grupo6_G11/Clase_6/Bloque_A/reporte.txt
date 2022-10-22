@@ -1,0 +1,4 @@
+Vina del mar: minima  9 , maxima 26
+Valparaiso: minima  10 , maxima 24
+Quilpue: minima  7 , maxima 30
+Quintero: minima  4 , maxima 22

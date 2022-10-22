@@ -1,0 +1,4 @@
+Vina del mar: T° max 26, T° min 9
+Valparaiso: T° max 24, T° min 10
+Quilpue: T° max 30, T° min 7
+Quintero: T° max 22, T° min 4
